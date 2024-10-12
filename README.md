@@ -6,7 +6,8 @@ This project presents a beautifully designed recipe page for a simple omelette. 
 
 - [Features](#Features)
 - [Technologies Used](#technologies-used)
-- [Author](#author) -[Acknowledgement](#acknowledgement)
+- [Author](#author)
+- [Acknowledgement](#acknowledgement)
 
 ## Features
 
@@ -20,12 +21,10 @@ This project presents a beautifully designed recipe page for a simple omelette. 
 - Google Fonts: Custom typography for a polished look
 - Media Queries: For responsiveness
 
-### Useful resources
-
 ## Author
 
 - Twitter - [@france_ssa](https://www.twitter.com/france_ssa)
 
 ## Acknowledgement
 
--Challenge by - [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
+- Challenge by - [Frontend Mentor](https://www.frontendmentor.io?ref=challenge)
